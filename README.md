@@ -61,5 +61,5 @@ Asegúrate de registrar tu propia API Key y agregarla al archivo `config.propert
 
 ## Autor
 
-**Yeison Stiven Rios Molina**  
-Estudiante de back-end con Java en Alura
+**Héctor Alejandro Mendoza Merino**  
+
